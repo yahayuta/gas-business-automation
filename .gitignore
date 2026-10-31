@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+.clasp.json
+.clasprc.json
+*.tsbuildinfo
+.DS_Store
+package-lock.json
