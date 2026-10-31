@@ -1,0 +1,13 @@
+Hello,
+
+Please ship the following.
+
+Order No: PO-2026-0001
+Customer: C-1001
+Ship by: 2026-11-10
+---
+SKU-001, 12
+SKU-014, 3
+
+Thank you,
+Example Retail (fictional)

@@ -1,0 +1,13 @@
+Hi team,
+
+Order No: PO-2026-0003
+Customer: C-1003
+---
+SKU-007, 1
+---
+Sample Shop (fictional) / 000-0000-0000
+
+On Mon, 2 Nov 2026 at 09:00, Order Desk wrote:
+> Order No: PO-2026-0000
+> ---
+> SKU-999, 999
